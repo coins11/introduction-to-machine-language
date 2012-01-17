@@ -11,4 +11,4 @@ L1: mov %ebx, %edx
     add $1, %eax
     cmp $10, %eax
     jne L1
-	call stop
+    call stop

@@ -11,5 +11,4 @@ main:
     add %ebx, %ecx
     jo L1
     mov $0, %eax
-L1:
-	call stop
+L1: call stop

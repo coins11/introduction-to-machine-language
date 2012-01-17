@@ -9,4 +9,4 @@ main:
     add %ebx, %esi
     add %ecx, %esi
     add %edx, %esi
-	call stop
+    call stop

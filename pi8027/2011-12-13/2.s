@@ -8,4 +8,4 @@ L1:
     add %eax, %ebx
     cmp $10, %eax
     jne L1
-	call stop
+    call stop
